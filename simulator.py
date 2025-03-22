@@ -1,3 +1,4 @@
+import os
 from vpython import sphere, vector, rate, scene, ring, label, curve
 from math import cos, sin, sqrt, pi
 
